@@ -28,10 +28,16 @@
     * 在刚刚自己回复的的那个 Issue 中再次回复, 这次找到 `@` 大妈的形式
     * 从 Issue 的回复中 AT 到大妈, 以便来回复自己的回复
 + 3: 创建 文件:
-    * https://github.com/GC4WP/GC6DAMA/issues
-+ 0: 创建 Issue:
-    * https://github.com/GC4WP/GC6DAMA/issues
+    * 进入游乐场目录: [playground](https://github.com/GC4WP/GC6DAMA/tree/main/playground)
+    * 创建一个自己 id 为名的文件,
+    * 比如, 大妈的帐号是 https://github.com/ZoomQuiet
+        - 那么就应该创建 [ZoomQuiet\.md](https://github.com/GC4WP/GC6DAMA/blob/main/playground/ZoomQuiet.md)
++ 4: 评点 这篇屎稿:
+    * 找到可以逐行点评的界面, 进入
+    * 随意点评几行, 每次都值得 AT 大妈
 
+
+![C-C](https://ipic.zoomquiet.top/2021-08-10-ScreenShot%202021-08-10%2010.21.50.jpg)
 
 ## 进展
 
