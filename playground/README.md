@@ -16,7 +16,7 @@ github 好是好, 毕竟是面向开发人员的;
 
 |> 210810 @蒹葭 
 
-- 在这里: http://ping.chinaz.com/
+- 在这里: http://ping.chinaz.com/github.com
     + 监测了github.com的IP
     + 开始选了首尔的15.64……
     + 只能进到首页，后来换了深圳的13.229.188.59
